@@ -6,3 +6,5 @@ venv/
 env/
 .ipynb_checkpoints/
 cache/
+cache/
+.venv/
